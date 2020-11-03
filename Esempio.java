@@ -4,5 +4,9 @@ class Esempio
   {
 
   }
-  
+
+  public static void ciao()
+  {
+    System.out.println("Ciao");
+  }
 }
