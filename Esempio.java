@@ -7,6 +7,6 @@ class Esempio
 
   public static void ciao()
   {
-    System.out.println("Ciao");
+    System.out.println("Ciao mondo");
   }
 }
